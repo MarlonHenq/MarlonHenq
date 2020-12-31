@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Marlon!
+I'm a 18-year-old back-end developer (but, I end up doing front-end/web development and devops sometimes) from the Brazi. As languages I use most are PHP, Python, Lua (I love Lua), recently I am learning functional programming together with Elixir and I am also learning Go.
 
+You will find in this Github: some exercises, bots for discord, codes for robots in Minecraft and random codes from my mind.
+
+## Follow me:
+[Twitter - @marlonhenq](https://twitter.com/MarlonHenq)
 <!--
 **MarlonHenq/MarlonHenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
