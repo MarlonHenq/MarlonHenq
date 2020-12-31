@@ -3,6 +3,8 @@ I'm a 18-year-old back-end developer (but, I end up doing front-end/web developm
 
 You will find in this Github: some exercises, bots for discord, codes for robots in Minecraft and random codes from my mind.
 
+History: i discovered programming at 10 years old, starting with codes copied for arduino projects and confusing circuits on the breadboard (or protoboard), between burnt out leds and blown capacitors i left the "programming" for some years. At the age of 13 I ended up discovering web development (font-end) and then back-end in addition to discovering the Minecraft mod, OpenComputers, which introduced me to Lua lang. So I started to program and discover other languages to learn and perform other tasks.
+
 ## Follow me:
 [Twitter - @MarlonHenq](https://twitter.com/MarlonHenq)
 <!--
