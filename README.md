@@ -7,6 +7,7 @@ History: I discovered programming at 10 years old, starting with codes copied fo
 
 ## Follow me:
 [Twitter - @MarlonHenq](https://twitter.com/MarlonHenq)
+|
 [SIte: - MarlonHenq.dev](https://marlonhenq.dev)
 <!--
 **MarlonHenq/MarlonHenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
