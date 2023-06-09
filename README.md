@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Marlon!
 I'm a 20-year-old back-end developer (but, I end up doing front-end/web development and DevOps sometimes) from the Brazil. As languages I use most are PHP, Python, Lua (I love Lua), recently I am learning functional programming together with Elixir and I am also learning Go.
 
-You will find in this Github: some exercises, bots for discord, codes for robots in Minecraft and random codes from my mind.
+You will find in this Github: some exercises, bots for discord, web scrapers, web pages, arduino files, codes for robots in Minecraft and random codes from my mind.
 
 History: I discovered programming at 10 years old, starting with codes copied for arduino projects and confusing circuits on the breadboard (or protoboard), between burnt out leds and blown capacitors I left the "programming" for some years. At the age of 13 I ended up discovering web development (font-end) and then back-end in addition to discovering the Minecraft mod, OpenComputers, which introduced me to Lua lang. So I started to program and discover other languages to learn and perform other tasks.
 
