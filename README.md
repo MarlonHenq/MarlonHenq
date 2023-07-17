@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Marlon!
-I'm a 20-year-old back-end developer (but, I end up doing front-end/web development and DevOps sometimes) from the Brazil. As languages I use most are PHP, Python, Lua (I love Lua), recently I am learning functional programming together with Elixir and I am also learning Go.
+I'm a 20-year-old back-end developer (but, I end up doing front-end/web development and DevOps sometimes) from the Brazil. As languages I use most are PHP, Python, Lua (I love Lua).
 
 You will find in this Github: some exercises, bots for discord, web scrapers, web pages, arduino files, codes for robots in Minecraft and random codes from my mind.
 
