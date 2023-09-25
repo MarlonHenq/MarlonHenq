@@ -5,11 +5,6 @@ You will find in this Github: some exercises, bots for discord, web scrapers, we
 
 History: I discovered programming at 10 years old, starting with codes copied for arduino projects and confusing circuits on the breadboard (or protoboard), between burnt out leds and blown capacitors I left the "programming" for some years. At the age of 13 I ended up discovering web development (font-end) and then back-end in addition to discovering the Minecraft mod, OpenComputers, which introduced me to Lua lang. So I started to program and discover other languages to learn and perform other tasks.
 
-
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=marlonhenq">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=marlonhenq" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
-
 ## Follow me:
 [Twitter - @MarlonHenq](https://twitter.com/MarlonHenq)
 |
