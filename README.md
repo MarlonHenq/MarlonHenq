@@ -5,6 +5,10 @@ You will find in this Github: some exercises, bots for discord, web scrapers, we
 
 History: I discovered programming at 10 years old, starting with codes copied for arduino projects and confusing circuits on the breadboard (or protoboard), between burnt out leds and blown capacitors I left the "programming" for some years. At the age of 13 I ended up discovering web development (font-end) and then back-end in addition to discovering the Minecraft mod, OpenComputers, which introduced me to Lua lang. So I started to program and discover other languages to learn and perform other tasks.
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&column=4&margin-w=8&margin-h=8&username=MarlonHenq" alt="Trophies" />
+</a></p>
+
 ## Follow me:
 [Twitter - @MarlonHenq](https://twitter.com/MarlonHenq)
 |
