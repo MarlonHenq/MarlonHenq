@@ -8,8 +8,6 @@ History: I discovered programming at 10 years old, starting with codes copied fo
 </a></p>
 
 ## Follow me:
-[Twitter - @MarlonHenq](https://twitter.com/MarlonHenq)
-|
 [Site - MarlonHenq.dev](https://marlonhenq.dev)
 <!--
 **MarlonHenq/MarlonHenq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
